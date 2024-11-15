@@ -84,6 +84,16 @@ const weatherData: WeatherData[] = [
     windSpeed: 1.8,
   },
   {
+    name: "Maskva",
+    country: "RU",
+    temp: 8,
+    humidity: 61,
+    pressure: 1020,
+    description: "Snow",
+    icon: "09d",
+    windSpeed: 6.8,
+  },
+  {
     name: "Abu Dhabi",
     country: "AE",
     temp: 35,
